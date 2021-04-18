@@ -24,7 +24,7 @@ namespace BildHouse
                 House.Finality = false;
         }
 
-        bool Audit( Type type, int count)
+        bool Audit( Type type, int count)//перевірка що вже збудовано
         {
             int c = 0;
             foreach (IPart part in House.partsHouse)
