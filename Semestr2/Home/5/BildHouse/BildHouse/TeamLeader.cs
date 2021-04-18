@@ -8,7 +8,7 @@ namespace BildHouse
     {
         public House House { get; set; }
 
-        public static House CreateProgect()
+        public static House CreateProgect() //випадковим чином встановлюємо тим матеріалу, впливає на кінцевий малюнок
         {
             Basement.MaterialStyle = RandomEnumValue<Basement.Style>();
             Walls.MaterialStyle = RandomEnumValue<Walls.Style>();
@@ -31,8 +31,6 @@ namespace BildHouse
                 part.Print();
 
             Console.WriteLine($"Progress at the moment ({ 1 + (100 / 11) * House.partsHouse.Count}%)");
-            //Console.ReadKey();
-            //Console.Clear();
         }
     }
 }
