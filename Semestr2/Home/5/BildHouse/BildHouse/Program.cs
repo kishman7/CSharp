@@ -8,9 +8,9 @@ namespace BildHouse
     {
         static void Main(string[] args)
         {
-            House house = TeamLeader.CreateProgect();
+            House house = TeamLeader.CreateProgect(); //Створення проекту
 
-            List<IWorker> Team = new List<IWorker>
+            List<IWorker> Team = new List<IWorker> //Керівник і робочі
             {
                 new Worker{House = house },
                 new Worker{House = house },
@@ -20,7 +20,7 @@ namespace BildHouse
 
             IEnumerator enumerator = Team.GetEnumerator();
 
-            while (house.Finality)
+            while (house.Finality)//будуємо по одному обєкту по черзі
             {
                 if (!enumerator.MoveNext())
                 {
@@ -33,7 +33,7 @@ namespace BildHouse
             Console.WriteLine("Press to Show Bilding....");
             Console.ReadKey();
             Console.Clear();
-            house.BildHouse();
+            house.BildHouse();//малюємо
         }
     }
 }
