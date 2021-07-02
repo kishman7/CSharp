@@ -1,0 +1,16 @@
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\net5.0\SpiderTrap.exe
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\net5.0\SpiderTrap.deps.json
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\net5.0\SpiderTrap.runtimeconfig.json
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\net5.0\SpiderTrap.runtimeconfig.dev.json
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\net5.0\SpiderTrap.dll
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\net5.0\ref\SpiderTrap.dll
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\net5.0\SpiderTrap.pdb
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.csprojAssemblyReference.cache
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.AssemblyInfoInputs.cache
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.AssemblyInfo.cs
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.csproj.CoreCompileInputs.cache
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.dll
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\ref\SpiderTrap.dll
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.pdb
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\net5.0\SpiderTrap.genruntimeconfig.cache

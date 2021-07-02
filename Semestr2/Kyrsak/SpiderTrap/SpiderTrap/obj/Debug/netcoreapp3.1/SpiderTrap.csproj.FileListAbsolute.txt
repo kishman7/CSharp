@@ -1,0 +1,13 @@
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\netcoreapp3.1\SpiderTrap.exe
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\netcoreapp3.1\SpiderTrap.deps.json
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\netcoreapp3.1\SpiderTrap.runtimeconfig.json
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\netcoreapp3.1\SpiderTrap.runtimeconfig.dev.json
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\netcoreapp3.1\SpiderTrap.dll
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\bin\Debug\netcoreapp3.1\SpiderTrap.pdb
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\netcoreapp3.1\SpiderTrap.csprojAssemblyReference.cache
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\netcoreapp3.1\SpiderTrap.AssemblyInfoInputs.cache
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\netcoreapp3.1\SpiderTrap.AssemblyInfo.cs
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\netcoreapp3.1\SpiderTrap.csproj.CoreCompileInputs.cache
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\netcoreapp3.1\SpiderTrap.dll
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\netcoreapp3.1\SpiderTrap.pdb
+D:\IT\C#\Semestr2\Kyrsak\SpiderTrap\SpiderTrap\obj\Debug\netcoreapp3.1\SpiderTrap.genruntimeconfig.cache
