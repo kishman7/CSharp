@@ -1,0 +1,10 @@
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\bin\Debug\WindowsFormsHome.exe.config
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\bin\Debug\WindowsFormsHome.exe
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\bin\Debug\WindowsFormsHome.pdb
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\obj\Debug\WindowsFormsHome.csprojAssemblyReference.cache
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\obj\Debug\WindowsFormsHome.Form1.resources
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\obj\Debug\WindowsFormsHome.Properties.Resources.resources
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\obj\Debug\WindowsFormsHome.csproj.GenerateResource.cache
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\obj\Debug\WindowsFormsHome.csproj.CoreCompileInputs.cache
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\obj\Debug\WindowsFormsHome.exe
+D:\IT_Step\VPU021_WF-master\WindowsFormsHome\obj\Debug\WindowsFormsHome.pdb
